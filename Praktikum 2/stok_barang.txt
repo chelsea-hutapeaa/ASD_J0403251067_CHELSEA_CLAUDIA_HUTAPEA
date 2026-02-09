@@ -1,0 +1,11 @@
+BRG001, kopi, 25
+BRG002, yupi, 20
+BRG003, permen karet, 25
+BRG004, Kerupuk, 10
+BRG005, Pop mie, 20
+BRG006, Sari roti, 15
+BRG007, chiki, 30
+BRG008, Susu, 20
+BRG009, Teh botol, 10
+BRG010, Roti, 15
+BRG011, yoghurt, 31
